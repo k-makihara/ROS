@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mslab/catkin_ws/src/khi_robot/khi_rs007l_moveit_config/src/visual_collision.cpp
+ros/ros.h
+/home/mslab/catkin_ws/src/khi_robot/khi_rs007l_moveit_config/src/ros/ros.h
+interactivity/interactive_robot.h
+/home/mslab/catkin_ws/src/khi_robot/khi_rs007l_moveit_config/src/interactivity/interactive_robot.h
+interactivity/pose_string.h
+/home/mslab/catkin_ws/src/khi_robot/khi_rs007l_moveit_config/src/interactivity/pose_string.h
+moveit/robot_model/robot_model.h
+-
+moveit/robot_state/robot_state.h
+-
+moveit/planning_scene/planning_scene.h
+-
+moveit/collision_detection_fcl/collision_world_fcl.h
+-
+moveit/collision_detection_fcl/collision_robot_fcl.h
+-
+moveit/collision_detection/collision_tools.h
+-
+

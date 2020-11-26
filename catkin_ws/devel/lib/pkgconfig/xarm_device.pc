@@ -1,0 +1,8 @@
+prefix=/home/mslab/catkin_ws/devel
+
+Name: xarm_device
+Description: Description of xarm_device
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mslab/catkin_ws/devel/lib 
+Requires: 

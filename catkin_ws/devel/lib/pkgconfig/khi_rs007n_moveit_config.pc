@@ -1,0 +1,8 @@
+prefix=/home/mslab/catkin_ws/devel
+
+Name: khi_rs007n_moveit_config
+Description: Description of khi_rs007n_moveit_config
+Version: 1.1.1
+Cflags: 
+Libs: -L/home/mslab/catkin_ws/devel/lib 
+Requires: 

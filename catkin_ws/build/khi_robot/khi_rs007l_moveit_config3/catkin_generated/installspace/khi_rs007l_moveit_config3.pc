@@ -1,0 +1,8 @@
+prefix=/home/mslab/catkin_ws/install
+
+Name: khi_rs007l_moveit_config3
+Description: Description of khi_rs007l_moveit_config3
+Version: 0.3.0
+Cflags: -I/home/mslab/catkin_ws/install/include
+Libs: -L/home/mslab/catkin_ws/install/lib 
+Requires: 

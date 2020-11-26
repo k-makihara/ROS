@@ -1,0 +1,8 @@
+prefix=/home/mslab/catkin_ws/install
+
+Name: xarm_msgs
+Description: Description of xarm_msgs
+Version: 0.0.0
+Cflags: -I/home/mslab/catkin_ws/install/include
+Libs: -L/home/mslab/catkin_ws/install/lib 
+Requires: std_msgs message_generation message_runtime

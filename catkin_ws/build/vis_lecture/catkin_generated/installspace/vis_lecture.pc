@@ -1,0 +1,8 @@
+prefix=/home/mslab/catkin_ws/install
+
+Name: vis_lecture
+Description: Description of vis_lecture
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mslab/catkin_ws/install/lib 
+Requires: 

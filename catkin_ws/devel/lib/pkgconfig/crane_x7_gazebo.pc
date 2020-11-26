@@ -1,0 +1,8 @@
+prefix=/home/mslab/catkin_ws/devel
+
+Name: crane_x7_gazebo
+Description: Description of crane_x7_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mslab/catkin_ws/devel/lib 
+Requires: 

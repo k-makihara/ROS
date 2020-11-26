@@ -1,0 +1,10 @@
+#goal definition
+int32 samples
+---
+#result definition
+int32 resu
+---
+#feedback
+int32 sample
+float32 data
+

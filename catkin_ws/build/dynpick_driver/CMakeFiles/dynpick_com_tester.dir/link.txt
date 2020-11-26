@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/dynpick_com_tester.dir/src/test-com.c.o  -o /home/mslab/catkin_ws/devel/lib/dynpick_driver/dynpick_com_tester -rdynamic 

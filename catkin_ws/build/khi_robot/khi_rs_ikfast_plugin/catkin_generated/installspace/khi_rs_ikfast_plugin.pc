@@ -1,0 +1,8 @@
+prefix=/home/mslab/catkin_ws/install
+
+Name: khi_rs_ikfast_plugin
+Description: Description of khi_rs_ikfast_plugin
+Version: 1.1.1
+Cflags: 
+Libs: -L/home/mslab/catkin_ws/install/lib 
+Requires: moveit_core pluginlib roscpp tf_conversions

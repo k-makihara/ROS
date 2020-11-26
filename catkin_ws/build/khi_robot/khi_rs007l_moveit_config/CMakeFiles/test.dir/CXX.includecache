@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mslab/catkin_ws/src/khi_robot/khi_rs007l_moveit_config/src/rs007l_test.cpp
+stdio.h
+-
+ros.h
+-
+

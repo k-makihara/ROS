@@ -1,0 +1,8 @@
+prefix=/home/mslab/catkin_ws/devel
+
+Name: xarm_bringup
+Description: Description of xarm_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mslab/catkin_ws/devel/lib 
+Requires: 
